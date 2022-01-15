@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "start": "nodemon --exec npx ts-node ./katas/sumOfPairs.ts",
+        "test": "npx jest"
+    },
+    "dependencies": {
+        "nodemon": "^2.0.15"
+    },
+    "devDependencies": {
+        "@types/jest": "^27.4.0"
+    }
+}
